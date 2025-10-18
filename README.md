@@ -38,7 +38,24 @@ I believe self-awareness is key to growth. I actively track and manage the follo
 <hr>
 
 <p align="center">"The difference between good code and great code is the story it tells."</p>
-  
+
+  # 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=doreenirunguofficial&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doreenirunguofficial&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doreenirunguofficial&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=doreenirunguofficial&theme=radical&row=1&column=6)
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doreenirunguofficial&theme=redical)
+
+## 💻 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 Doreen-irungu/Doreen-irungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
